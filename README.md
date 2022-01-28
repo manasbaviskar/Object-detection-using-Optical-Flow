@@ -1,0 +1,2 @@
+# Object-detection-using-Optical-Flow-
+The project implements Optical Flow for tracking of obstacles. Optical flow is a technique which computes the flow vectors of all the pixels in the frame by monitoring the current frame and the previous frame. This technique has been traditionally used in analyzing flow states of fluids in various experiments related to thermodynamics. The proposed solution implements dense optical flow which is based on Farneback’s algorithm. 
